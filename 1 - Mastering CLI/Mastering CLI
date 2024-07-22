@@ -1,0 +1,14 @@
+1) Creating a directory / folder
+    mkdir [directory_name]
+
+2) Clear out the terminal
+    clear
+
+3) Removing of directory / folder
+    rmdir [directory_name]
+
+4) Print / Present the Current directory
+    pwd
+
+5) Listing Command
+    ls
