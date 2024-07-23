@@ -33,3 +33,12 @@ Git is a distributed version control system that tracks changes to files, enabli
 
 ## Branching & merging
 `git branch <branch-name>`
+
+## Check all branch
+`git branch -a`
+
+## Switching Branches
+`git switch <branch-name>`
+
+## Merging branches
+`git merge <branch-name>`
